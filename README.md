@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DeveloperAyush52
+- My name is Ayush Pandey. 
 - 👀 I’m interested in Coading of java
 - 🌱 I’m currently in class 10th
 - 💞️ I’m looking to collaborate on some apps 
